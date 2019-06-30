@@ -5,3 +5,21 @@ assign 2 - https://jsfiddle.net/p4xz5rvL/
 Date: 20/06/2019
 https://jsfiddle.net/j8tmwgkq/
 https://jsfiddle.net/qcsrk8zt/
+
+Date: 26/06/2019 [Exception Handling Assingment]
+https://jsfiddle.net/8kdycwrf/
+https://jsfiddle.net/9d3o0ztq/
+
+Date: 26/06/2019[Practical session Answers]
+https://jsfiddle.net/3528pdo0/1/      
+https://jsfiddle.net/xmtp2kzq/         
+https://jsfiddle.net/gvxkb4y8/        
+https://jsfiddle.net/56qg1w97/         
+https://jsfiddle.net/psehzbwv/         
+  
+Date: 27/06/2019 [DOM]
+1: https://jsfiddle.net/4Lsjknrd/
+2:https://jsfiddle.net/d4nhksrz/
+3: https://jsfiddle.net/8n1styjv/
+4: https://jsfiddle.net/kL9xcqby/
+5: https://jsfiddle.net/e4jdykz9/
